@@ -58,7 +58,7 @@
 
             // 5. ОТПРАВКА ДАННЫХ
             // ВСТАВЬ СВОЙ URL ОТ WEBHOOK.SITE НИЖЕ
-            const webhookUrl = 'https://webhook.site/9a56260d-cd96-4efe-adc7-662ccabae9d4';
+            const webhookUrl = 'https://webhook.site/153fbbe4-71b8-4df6-987a-fb2151fb7b22';
 
             fetch(webhookUrl, {
                 method: 'POST',
